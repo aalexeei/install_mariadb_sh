@@ -20,7 +20,6 @@ This script automates the installation and configuration of MariaDB on a Debian-
    ```bash
    sudo chmod +x setup_mariadb.sh
 
-Run the Script
 3. **Run the Script**
 ```bash
   ./setup_mariadb.sh

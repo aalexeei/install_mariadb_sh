@@ -13,11 +13,11 @@ This script automates the installation and configuration of MariaDB on a Debian-
 ## Usage
 
 1. **Download the Script**
-
+```bash
   git clone https://github.com/aalexeei/install_mariadb_sh.git
 
 2. **Make the Script Executable**
-   ```bash
+```bash
    sudo chmod +x setup_mariadb.sh
 
 3. **Run the Script**

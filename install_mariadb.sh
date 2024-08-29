@@ -20,7 +20,7 @@ sudo apt install -y mariadb-server
 
 # Start and configure MariaDB
 sudo systemctl start mariadb
-sudo systemctl enable mariadb
+sudo systemctl enable mariadb.service
 
 # Perform secure installation
 if [ "$ALLOW_REMOTE" = "y" ]; then
